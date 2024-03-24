@@ -1,4 +1,4 @@
-# ENV Manager
+# Quiz App
 
 ![Project Image](image.png)
 
